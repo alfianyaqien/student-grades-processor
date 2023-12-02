@@ -1,0 +1,7 @@
+Frekuensi data berdasarkan jumlah nilai:
+Nilai: 5, Frekuensi: 1
+Nilai: 6, Frekuensi: 2
+Nilai: 7, Frekuensi: 62
+Nilai: 8, Frekuensi: 42
+Nilai: 9, Frekuensi: 50
+Nilai: 10, Frekuensi: 41

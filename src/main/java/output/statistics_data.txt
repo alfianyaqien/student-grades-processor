@@ -1,0 +1,4 @@
+Statistik Data:
+Mean (Rata-rata): 8.318181818181818
+Median: 8.0
+Modus: [7]
